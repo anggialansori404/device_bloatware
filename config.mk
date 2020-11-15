@@ -3,5 +3,5 @@ PRODUCT_PACKAGES += \
     FirefoxLite \
     GalleryGo \
 	KimciRecorder \
-    RetroMusic \
+    OtoMusic \
     RemovePackages
