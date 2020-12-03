@@ -1,7 +1,5 @@
 PRODUCT_PACKAGES += \
-    CameraGo \
-    FirefoxLite \
-    GalleryGo \
-	KimciRecorder \
+    ViaBrowser \
+    Gallery \
     OtoMusic \
     RemovePackages
