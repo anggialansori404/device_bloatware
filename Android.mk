@@ -15,7 +15,7 @@ LOCAL_OVERRIDES_PACKAGES := Browser Browser2 Jelly DuckDuckGo Chrome
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Gallery
+LOCAL_MODULE := GalleryGo
 LOCAL_OVERRIDES_PACKAGES := Gallery2 Photos QPGallery
 LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := app/$(LOCAL_MODULE).apk
